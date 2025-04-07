@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student majoring in Statistics and minoring in Finance from the [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology(SUSTech)]https://www.sustech.edu.cn/en/). During my undergraduate studies, I am supervised by Professor [Qiman Shao](https://www.sustech.edu.cn/en/faculties/shaoqiman.html) at SUSTech. I used to be a research intern in [Professor Hongyu Zhao's Lab](https://zhaocenter.org/) at Yale University in 2024, and I have explored a variety of other research areas which span my research interests.
+I'm a third year undergraduate student majoring in Statistics and minoring in Finance from the [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology(SUSTech)](https://www.sustech.edu.cn/en/). During my undergraduate studies, I am supervised by Professor [Qiman Shao](https://www.sustech.edu.cn/en/faculties/shaoqiman.html) at SUSTech. I used to be a research intern in [Professor Hongyu Zhao's Lab](https://zhaocenter.org/) at Yale University in 2024, and I have explored a variety of other research areas which span my research interests.
 
 My current research interest includes (i) Statistical Machine Learning, especially Doubly Robust Estimation under covariate shift in transfer regression learning settings, (ii) Statistical Genetics, especially genetic Fine-mapping in GWAS studies, and (iii) Computational Social Science and Network Science.
 
