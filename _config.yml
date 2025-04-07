@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Longtian Shi / Little World"
 title_separator          : "-"
 name                     : &name "Longtian Shi(师珑天)"
-description              : &description "Statistics Undergrad at SUSTech Seeking 2026Fall PhD Opportunities"
+description              : &description "Statistics Undergrad Seeking 2026Fall PhD Position"
 url                      : https://tapslt.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tapslt/tapslt.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : "he/his/him"  
   bio              : "Statistics Undergrad at SUSTech Seeking 2026Fall PhD Opportunities"
   location         : "Shenzhen, China"
-  employer         : "[SUSTech](https://www.sustech.edu.cn/en/)"
+  employer         : "SUSTech"
   uri              : # URL
   email            : "shilt2022@mail.sustech.edu.cn" 
 
