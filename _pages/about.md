@@ -13,8 +13,10 @@ For my research experiences, I used to be a research intern in [Professor Hongyu
 
 My previous research experiences and current research interests include:
 
-(i) **Statistical Machine Learning**, especially Doubly Robust Estimation under covariate shift in transfer regression learning settings.\\ 
-(ii) **Statistical Genetics**, especially genetic Fine-mapping in GWAS studies.\\
+(i) **Statistical Machine Learning**, especially Doubly Robust Estimation under covariate shift in transfer regression learning settings.
+
+(ii) **Statistical Genetics**, especially genetic Fine-mapping in GWAS studies.
+
 (iii) Computational Social Science and Network Science.
 
 I am very fortunate and grateful to be advised by my mentors and supervisors, and to do research with my collaborators!
