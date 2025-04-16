@@ -19,11 +19,11 @@ My previous research experiences and current research interests include:
 
 (iii) Computational Social Science and Network Science.
 
-I am very fortunate and grateful to be advised by my mentors and supervisors, and to do research with my collaborators!
+I am very fortunate and grateful to be advised by my mentors and supervisors and to do research projects with my collaborators!
 
 Eagerly Seeking Fully-funded 2026 fall PhD Opportunites in Statistics/Biostatistics/Data Science
 ======
-***Please feel free to email me if you are in want of a PhD student whose research experiences, skills and personality could align with and be a matched help of your ongoing research projects.*** We can always schedule a chat to see if there is an intersection of interest. Happy to collaborate!
+***Please feel free to email me if you are in want of a PhD student whose research experiences, skills and personality could align with and be a matched help of your ongoing research projects.*** We can always schedule a chat to see if there is any intersection of interest. Happy to collaborate!
 
 [Email](shilt2022@mail.sustech.edu.cn)/[LinkedIn](https://www.linkedin.com/in/%E7%8F%91%E5%A4%A9-%E5%B8%88-280b14315/)
 
