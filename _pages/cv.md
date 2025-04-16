@@ -47,7 +47,7 @@ JUN 2024 – SEP 2024
 _Department of Biostatistics, Yale University, New Haven, CT, USA (On-site)_  
 _Led and supervised by Professor [Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/)_  
 - Produced paper *Enhancing Identification of Diseasing-causing Genetic Features Using Multi-omics Data, Manuscript to be submitted.*  
-  Responsible for developing **EBFM** (Empirical-Bayes for Fine Mapping) to enhance identification of disease-causing genetic features using multi-omics data. The simulation and application on real data (BMI data of different ancestries) compare this method with popular methods such as [SuSiE](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010299) and CARMA.  
+  Responsible for developing **EBFM** (Empirical-Bayes for Fine Mapping) to enhance identification of disease-causing genetic features using multi-omics data. The simulation and application on real data (BMI data of different ancestries) compare this method with popular methods such as [SuSiE](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010299) and [CARMA](https://www.nature.com/articles/s41588-023-01392-0).  
 - Developed an approach that utilizes the spike-and-slab prior and posterior maximization to estimate the genetic architecture and capture the Credible Sets of SNPs based on the PIP (Posterior Inclusion Probability) via greedy search. This method demonstrates a lower FDR (False Discovery Rate) by capturing more credible sets with fewer SNPs, yielding higher replication, precision-recall, and reproduction rates.
 
 **Research on Network Science and Computational Social Science**  
