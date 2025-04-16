@@ -32,7 +32,7 @@ Eagerly Seeking Fully-funded 2026 fall PhD Opportunites in Statistics/Biostatist
 
 My hobbies include basketball, movie, music, billiards, etc.
 
-<div align="center" style = "width=400rpx;height=400rpx">
+<div  style = "display:block;width:400px;height:400px">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hz6k6GhkBzNXk-zatck70bB_OnevtaTUx9GNaLEP09E"></script>
 
   
