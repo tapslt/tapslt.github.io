@@ -33,7 +33,7 @@ Expected AUG 2025 – DEC 2025
 
 **Research on Doubly Robust Semi-Supervised Estimation amid Covariate Shift**  
 FEB 2025 – PRESENT  
-_Supervised by Assistant Professor [Molei Liu](https://moleibobliu.github.io/) (Peking University and formerly Columbia University)_  
+_Supervised by Assistant Professor [Molei Liu](https://moleibobliu.github.io/), Peking University_  
 - Investigating how the **Doubly Robust Semi-non-parametric Estimation** framework, constructed in Augmented Transfer Regression Learning (ATReL) with covariate shift, can be extended into general semi-supervised learning settings.
 
 **Research on Applying Machine Learning Methods on [sedaDNA](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1185435/full) Data**  
