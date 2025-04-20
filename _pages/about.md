@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome to my Homepage!**(Last Updated on 04/16/2025)
+**Welcome to my Homepage!** (Last Updated on 04/16/2025)
 
 I'm a third year undergraduate student majoring in Statistics and minoring in Finance, at the [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology(SUSTech)](https://www.sustech.edu.cn/en/). During my undergraduate studies, I am supervised by Professor [Qiman Shao](https://www.sustech.edu.cn/en/faculties/shaoqiman.html) at SUSTech. I am planning to participate in the GSP(Global Study Program) at UC Davis in 2025 summer and (very possibly) BISP(Berkeley International Study Program) at UC Berkeley.
 
