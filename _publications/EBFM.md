@@ -1,13 +1,13 @@
 ---
-title: "Enhancing Identification of Disease‑causing Genetic Features Using Multi‑omics Data"
-collection: publications
+title: "Zhang, X., Shi, L., & Zhao, H. (2025). Enhancing Identification of Diseasing-causing Genetic Features Using Multi-omics Data Manuscript."
+collection: 
 category: manuscripts
 permalink: /publication/2025-03-01-enhancing-identification-of-disease-causing-genetic-features
-excerpt: "We propose an Empirical‑Bayes Fine Mapping (EBFM) approach that leverages multi‑omics data to robustly pinpoint disease‑causing genetic variants, outperforming SuSiE and CARMA in both simulated and real‑world BMI datasets."
-date: 2025-03-01
+excerpt: ""
+date: 
 venue: "Preprint Manuscript"
 paperurl: "https://your.preprint.server/your-paper.pdf"
-citation: "Zhang, X., Shi, L., & Zhao, H. (2025). “Enhancing Identification of Disease‑causing Genetic Features Using Multi‑omics Data.” Manuscript."
+citation: ""
 ---
   
 This manuscript introduces **Empirical‑Bayes Fine Mapping (EBFM)**, a novel framework to accurately identify causal genetic variants in high‑dimensional, noisy multi‑omics datasets.  
