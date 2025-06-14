@@ -12,8 +12,8 @@ citation: "Zhang, X., Shi, L., & Zhao, H. (2025). “Enhancing Identification of
   
 This manuscript introduces **Empirical‑Bayes Fine Mapping (EBFM)**, a novel framework to accurately identify causal genetic variants in high‑dimensional, noisy multi‑omics datasets.  
 - **Key Features**  
-  - Uses a spike‑and‑slab prior with posterior maximization to model effect‑size distributions flexibly  
-  - Applies a greedy search based on correlation scores and Posterior Inclusion Probability (PIP) to assemble credible sets  
+  - Uses a spike‑and‑slab prior with posterior maximization to model effect‑size distributions flexibly.  
+  - Applies a greedy search algorithm based on correlation scores and Posterior Inclusion Probability (PIP) to assemble credible sets  
   - Demonstrates lower false discovery rates and higher replication performance on European‑ and African‑ancestry BMI cohorts, UK Biobank, and 1000 Genomes data  
 
 <!--  
