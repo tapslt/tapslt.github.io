@@ -5,7 +5,7 @@ permalink: /publication/2025-03-01-enhancing-identification-of-disease-causing-g
 excerpt: ""
 venue: "Preprint Manuscript"
 paperurl: "https://your.preprint.server/your-paper.pdf"
-authors: ["Shi, L.", "Zhang, X.", "Zhao, H."]
+authors: ["Zhang, X.", "Shi, L.", "Zhao, H."]
 corresponding_author: "Zhao, H."
 ---
   
