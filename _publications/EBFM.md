@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Identification of Diseasing-causing Genetic Features Using Multi-omics Data. Manuscript. (2025+)"
+title: "A Novel Empirical Bayes Mathod for Genetic Fine-mapping with GWAS Summary Statistics"
 category: manuscripts
 permalink: /publication/2025-03-01-enhancing-identification-of-disease-causing-genetic-features
 excerpt: ""
