@@ -1,5 +1,5 @@
 ---
-title: "Big Names or Big Ideas: Does Scientific Status Shorten the Publishing Process?. Manuscript. (2025+)"
+title: "Big Names or Big Ideas: Does Scientific Status Shorten the Publishing Process?"
 category: manuscripts
 permalink: /publication/2025bgbi
 excerpt: ""
