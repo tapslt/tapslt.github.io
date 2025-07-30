@@ -37,7 +37,7 @@ My hobbies include basketball, movie, music, billiards, etc.
 ## <font color = '#000000'>News</font>
 
 
-* **[Jul 28th, 2025]** Established this 'News' Section.
+* **[Jul 28th, 2025]** Established this News Section.
 
 
 
